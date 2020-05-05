@@ -1,6 +1,7 @@
 # CRIO.DO
 Build real products to learn foundational concepts like Databases, OOPs, Developer Tools, Applied Data Structures, Algorithms and System Design.
-# Crio Launch 2020
+
+# Crio Launch Programme 2020
 
 **Crio Launch** is one of the awesome things happened with me, this year. 
  Very happy to share that I have successfully graduated from Crio.Do Launch 2020. 
@@ -20,7 +21,7 @@ The past **10 weeks** were stretching and sometimes straining too, but the learn
 worth all the efforts. I learnt a great deal about increasing efficiency, writing clean code, and working 
 as a team.
 
-Here is my [Crio Portfolio](/https://bit.ly/3aLEhUQ) : all the work I have done is stored in 
+Here is my [Crio Portfolio](https://criodo.github.io/Crio-Launch-Feb-2020-aman19199star/) : all the work I have done is stored in 
 private repositories.
 
 This would not have been possible without the mentorship and support of Ajay Ravindra, Rathinamurthy R, 
