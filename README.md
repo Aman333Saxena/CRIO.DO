@@ -21,6 +21,10 @@ The past **10 weeks** were stretching and sometimes straining too, but the learn
 worth all the efforts. I learnt a great deal about increasing efficiency, writing clean code, and working 
 as a team.
 
+![Crio Certificate](images/Crio-Certificate.png)
+
+![Crio Badges](images/Crio-Badges.png)
+
 Here is my [Crio Portfolio](https://criodo.github.io/Crio-Launch-Feb-2020-aman19199star/) : all the work I have done is stored in 
 private repositories.
 
